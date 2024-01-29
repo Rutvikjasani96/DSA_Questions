@@ -1,0 +1,4 @@
+Day 1 : Introduction to Problem Solving
+Q.1 Given a no. N count the factor of N
+Q.2 Sum of N
+Q.3 Square root of N
